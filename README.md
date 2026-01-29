@@ -1,7 +1,6 @@
 # CodePulse AI — Pull Request (PR) Risk & Review Assistant
 
 🚀 **Live Demo:** https://codepulse-ai-ctbwcsz2lvf4nussfnrqpd.streamlit.app/
-💻 **Source Code:** https://github.com/prakhardewangan2005-hash/codepulse-ai
 
 ---
 
