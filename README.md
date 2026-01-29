@@ -1,6 +1,6 @@
 # CodePulse AI — PR Risk & Review Assistant
 
-Live Demo: (paste your Streamlit link here)
+Live Demo: https://codepulse-ai-ctbwcsz2lvf4nussfnrqpd.streamlit.app/
 
 ## What it does
 CodePulse AI is an internal-tool style app that analyzes PR diffs / code snippets and produces:
